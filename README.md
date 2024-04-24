@@ -25,9 +25,10 @@ Traditional portfolio construction methods such as Markowitz's Mean-Variance Mod
 
 ## 💡 Highlights 
 
-<img src="https://github.com/wayne-kuanghui-shen/python-spx_pricing_vecm_modeling/blob/main/highlights/VECM_ECMs.png" >
-<img src="https://github.com/wayne-kuanghui-shen/python-spx_pricing_vecm_modeling/blob/main/highlights/VECM_lr_coef.png" >
-<img src="https://github.com/wayne-kuanghui-shen/python-spx_pricing_vecm_modeling/blob/main/highlights/VECM_sr_coef.png" >
-<img src="https://github.com/wayne-kuanghui-shen/python-spx_pricing_vecm_modeling/blob/main/highlights/impluse_response.png" >
-<img src="https://github.com/wayne-kuanghui-shen/python-spx_pricing_vecm_modeling/blob/main/highlights/variance_decomposition.png" >
-<img src="https://github.com/wayne-kuanghui-shen/python-spx_pricing_vecm_modeling/blob/main/highlights/forecasting.png" >
+<img src="https://github.com/wayne-kuanghui-shen/python-multi-strat-dynamic-asset-allocation/blob/main/highlights/macro_signal.png" >
+<img src="https://github.com/wayne-kuanghui-shen/python-multi-strat-dynamic-asset-allocation/blob/main/highlights/technical_signal.png" >
+<img src="https://github.com/wayne-kuanghui-shen/python-multi-strat-dynamic-asset-allocation/blob/main/highlights/portfolio_design.png" >
+<img src="https://github.com/wayne-kuanghui-shen/python-multi-strat-dynamic-asset-allocation/blob/main/highlights/dynamic_portfolio_weight.png" >
+<img src="https://github.com/wayne-kuanghui-shen/python-multi-strat-dynamic-asset-allocation/blob/main/highlights/out_of_sample_performance.png" >
+<img src="https://github.com/wayne-kuanghui-shen/python-multi-strat-dynamic-asset-allocation/blob/main/highlights/performance_visualization.png" >
+<img src="https://github.com/wayne-kuanghui-shen/python-multi-strat-dynamic-asset-allocation/blob/main/highlights/performance_across_regimes.png" >
