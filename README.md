@@ -13,15 +13,15 @@ Traditional portfolio construction methods such as Markowitz (1952)'s Mean-Varia
 ## 📍 Conclusions
 - Findings: The multi-strategy dynamic portfolio outperforms static benchmarks out-of-sample
   - The dynamic portfolio strategy delivers a Sharpe ratio of 1.20, compared to 0.7 of classic 60/40 portfolio
-  - The dynamic portfolio generates the highest absolute return and the lowest maximum drawdown vs. all benchmarks
-  - The dynamic portfolio has an equity beta of only 0.37 and provides diversification benefits in recessionary regimes
+  - The dynamic portfolio generates the highest absolute return and lowest maximum drawdown vs. all benchmarks
+  - The dynamic portfolio has an equity beta of only 0.37 and provides diversification in recessionary regimes
   - The performance results are robust under different input and parameter settings in the model
-- Implication 1: The inclusion of technical signals within a layered framework adds value to a macroeconomic-based portfolio strategy
-  - The portfolio that incorporates technical signals produces a Sharpe ratio of 1.20, compared to 1.08 of that with only macroeconomic signals
-  - This indicates that a combination of different signals captures additional risk premia with superior performance
-- Implication 2: Deriving the asset covariance based on the prevailing macro regime in mean-variance optimization enhances risk-adjusted returns
-  - The traditional full-sample covariance portfolio yields a Sharpe ratio of 0.98, compared to 1.20 of the regime-based covariance portfolio
-  - The suggests that asset correlations also depend on varying economic regimes and adopting regime-based covariance adds value
+- Implication 1: The inclusion of technical signals within a layered framework adds value
+  - Incorporating technical signals produces a Sharpe ratio of 1.20, vs. 1.08 of macro-only signals
+  - This means A combination of different signals captures additional risk premia with superior performance
+- Implication 2: Deriving asset covariance based on the prevailing macro regime leads to better outcome
+  - The full-sample covariance portfolio yields a Sharpe ratio of 0.98, vs. 1.20 of regime-based covariance
+  - The suggests using macroeconomic regime-based covariance in mean-variance optimization enhances returns
 
 ## 💡 Highlights 
 
