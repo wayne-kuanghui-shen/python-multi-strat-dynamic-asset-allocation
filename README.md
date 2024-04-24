@@ -16,9 +16,12 @@ Traditional portfolio construction methods such as Markowitz (1952)'s Mean-Varia
   - The dynamic portfolio generates the highest absolute return and the lowest maximum drawdown vs. all benchmarks
   - The dynamic portfolio has an equity beta of only 0.37 and provides diversification benefits in recessionary regimes
   - The performance results are robust under different input and parameter settings in the model
-- Implications: A superior framework for asset allocation strategy design
-  - The inclusion of technical signals within a layered framework adds value to a macroeconomic-based portfolio strategy
-  - Deriving the asset covariance based on the prevailing macro regime in mean-variance optimization enhances risk-adjusted returns
+- Implication 1: The inclusion of technical signals within a layered framework adds value to a macroeconomic-based portfolio strategy
+  - The portfolio that incorporates technical signals produces a Sharpe ratio of 1.20, compared to 1.08 of that with only macroeconomic signals
+  - This indicates that a combination of different signals captures additional risk premia with superior performance
+- Implication 2: Deriving the asset covariance based on the prevailing macro regime in mean-variance optimization enhances risk-adjusted returns
+  - The traditional full-sample covariance portfolio yields a Sharpe ratio of 0.98, compared to 1.20 of the regime-based covariance portfolio
+  - The suggests that asset correlations also depend on varying economic regimes and adopting regime-based covariance adds value
 
 ## 💡 Highlights 
 
