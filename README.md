@@ -2,7 +2,7 @@
 
 **✏️ Introduction**: 
 
-Traditional portfolio construction methods such as Markowitz's Mean-Variance Model, in practice, often rely on the assumption of constant asset returns and covariance over time, regardless of the time-varying behavior of financial assets. The unending pursuit of the “holy grail” of investing underscores the absence of an optimal investment strategy. Given that existing literature focuses only on single dimension of factors, this study proposes a multi-strategy approach for dynamic asset allocation strategies that integrates fundamental and technical signals.
+Traditional portfolio construction methods such as Markowitz's Mean-Variance Model, in practice, often rely on the assumption of constant asset returns and covariance over time, regardless of the time-varying behavior of financial assets. The unending pursuit of the holy grail of investing underscores the absence of an optimal strategy. Given that existing literature focuses only on single dimension of factors, this study proposes a multi-strategy approach for dynamic asset allocation strategies that integrates fundamental and technical signals.
 
 
 ## ⛳️ Objectives 
